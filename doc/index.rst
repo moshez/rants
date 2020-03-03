@@ -1,5 +1,5 @@
-Moshe'z Filk Songs
-------------------
+Moshe'z Rants
+-------------
 
 .. toctree::
 

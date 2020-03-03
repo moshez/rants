@@ -115,17 +115,20 @@ Finite set theory.
 Here is how we would teach finite set theory:
 
 First lesson:
+
 * Present "naive set theory"
 * Show Russel's paradox
 * No homework
 
 Second lesson:
+
 * Explain how axiomatic set theory works: Von Neuman version
 * Present some of the axioms (pair, union, replacement)
 * Show how to prove the union of two sets is a set
 * Independent work: prove the intersection of two sets is a set
 
 Third lesson:
+
 * Present some more axioms
 * Show some more things are sets
 * Show Venn diagrams as intuition aids

@@ -57,4 +57,28 @@ and the designer of the death star,
 almost certainly,
 was not given the mission to do so.
 
+Addendum, in view of Rogue One
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We know Galen Erso placed the
+"vulnerability"
+there intentionally.
+But he was not the only designer of the death star:
+this design had to pass the review of multiple people.
+We know that the rebellion is aware of the survival of Obi-Wan Kenobi:
+Leah's message is for him.
+The emperor knows that,
+at least,
+that Obi-Wan and some other jedis are unaccounted for,
+and survived order 66.
+However,
+though the emperor and Darth Vader know it,
+this is not common knowledge in the Imperial forces,
+much less the details of the jedis' abilities.
+Galen
+"trusts in the force":
+he believes the surviving jedis will be able to use the vulnerability.
+The empire's weapon designers,
+however,
+do not know jedis have survived order 66 and need to be accounted for.
 

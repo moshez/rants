@@ -6,3 +6,4 @@ Moshe'z Rants
 
     deathstar-design
     highschool-geometry
+    dnd-is-bad

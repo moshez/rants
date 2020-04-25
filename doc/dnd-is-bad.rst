@@ -205,6 +205,24 @@ This would make sense if somehow gameplay was so much better,
 but almost every other system uses one or two kinds of dice,
 without any reduction in fun or excitement.
 
+Alignment
+---------
+
+The alignment system literally adds nothing to the game.
+It is there,
+it results in some minor player penalties
+and maybe a weird limitation o Paladins and Druids,
+and that is it.
+If nobody is playing a Paladin or Druid,
+the whole system could be thrown out and nothing would be different.
+
+There are much better ways to balance over-powered classes.
+If you want "behavioral limitations",
+put them right in the class.
+Alternatively, make the class weaker.
+
+
+
 Summary
 -------
 
@@ -230,3 +248,4 @@ Ars Magica.
 Either direction guarantees more fun than using D&D,
 even if you sometimes have to drag people kicking and screaming
 into the light.
+

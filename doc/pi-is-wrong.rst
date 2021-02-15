@@ -24,34 +24,47 @@ otherwise physics would look different based on where you are.
 
 When thinking about such differential equations,
 we can think about the
-simplest one: `f' = f`.
+simplest one: ``f' = f``.
 A function whose deriviative is equal to itself.
-One such function is too simple: `f(x) = 0`.
-This constant function has a derivative of `0`,
+One such function is too simple: ``f(x) = 0``.
+This constant function has a derivative of ``0``,
 which is equal to it.
 
 Can there be other solutions?
-It's not obvious but let's a function that is
+It's not obvious but let's call a function that is
 *not*
-always `0` and solves this equation,
-if it exists, `p`.
-Now, `p` can *never* be `0`, because this equation is position-independent.
-If it's zero anywhere, then the derivative is `0`, and so it is a zero constant.
+always ``0`` and solves this equation,
+if it exists, ``p``.
+Now, ``p`` can *never* be ``0``, because this equation is position-independent.
+If it's zero anywhere, then the derivative is ``0``, and so it is a zero constant.
 
-So this means `p(0) = t`, and `t` is not `0`.
-You can divide by a any number that is not `0`,
-and derivatives are linear.
-The function `e(x) = p(x)/t` also solves the original differential equation,
-and is `e(0)=1`.
-The equation is position-independent, so `e(x+c)` is also a solution
-for each `c`.
+So this means ``p(0) = t``, and ``t`` is not ``0``.
+Notice that because derivatives are linear,
+if ``p`` is a solution, so is ``a*p``
+for every constant ``a``.
+So, the function ``e(x) = p(x)/t`` also solves the original differential equation,
+and ``e(0)=1``.
+The equation is position-independent, so ``e(x+c)`` is also a solution
+for each ``c``.
 Since differential equations have unique solutions with the same starting conditions,
-`e(x+c)/e(c)=e(x)`.
-In other words, `e(x+c)=e(x)*e(c)` for every `x` and `c`.
+and
+``e(0+c)/e(c)=1=e(0)``,
+``e(x+c)/e(c)=e(x)``.
+In other words, ``e(x+c)=e(x)*e(c)`` for every ``x`` and ``c``.
 
-With induction, `e(n)=e(1) ** n`.
-More, `e(n/m) ** m = e(n/m * m) = e(n) = e(1) ** n`.
-Taking out `m`th roots,
+With induction, 
+
+.. code::
+
+    e(n)=e(1) ** n
+
+More, 
+
+.. code::
+
+    e(n/m) ** m = e(n/m * m) = e(n) = e(1) ** n
+
+Taking out ``m``-th roots,
 
 .. code::
 
@@ -63,6 +76,8 @@ If we just write ``e`` for ``e(1)``, we get
 .. code::
 
     e(r) = e ** r
+
+for every rational number ``r``.
 
 Since ``e' = e``,
 we have ``e'' = e`` and so on.
@@ -93,7 +108,8 @@ so
 
 .. code::
 
-    1 = e(0) = e(i*t - i*t) = e(i*t) * e(-i * t) = Re e(it) ** 2 + Im e(it) ** 2
+    1 = e(0) = e(i*t - i*t) = e(i*t) * e(-i * t) = 
+      = Re e(it) ** 2 + Im e(it) ** 2
 
 In other words, if ``t`` is real,
 

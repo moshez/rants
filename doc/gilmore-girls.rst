@@ -47,6 +47,10 @@ She has an overbearing mother,
 a nigh-invisible father,
 and a crush on guitar-playing cool guy.
 
+The frenemy is a rich girl.
+However, her parents cheat the IRS,
+and she becomes poor and has to do menial work to get nice things.
+
 The show reaches a crisis at the end of Season 5:
 Buffy dies, and Rory quits college.
 Season 6 deals with the ramifications

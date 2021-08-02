@@ -14,3 +14,4 @@ Moshe'z Rants
     god-and-real-numbers
     i-not-constant
     star-wars-economics
+    the-good-place-and-privilege

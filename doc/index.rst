@@ -15,3 +15,4 @@ Moshe'z Rants
     i-not-constant
     star-wars-economics
     the-good-place-and-privilege
+    stop-saying-docker

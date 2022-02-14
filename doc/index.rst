@@ -16,3 +16,4 @@ Moshe'z Rants
     star-wars-economics
     the-good-place-and-privilege
     stop-saying-docker
+    computers-are-magic

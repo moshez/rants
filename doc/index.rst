@@ -17,3 +17,4 @@ Moshe'z Rants
     the-good-place-and-privilege
     stop-saying-docker
     computers-are-magic
+    sorcerer-supreme

@@ -18,3 +18,4 @@ Moshe'z Rants
     stop-saying-docker
     computers-are-magic
     sorcerer-supreme
+    fictional-politics

@@ -19,3 +19,4 @@ Moshe'z Rants
     computers-are-magic
     sorcerer-supreme
     fictional-politics
+    lindsey-elliot

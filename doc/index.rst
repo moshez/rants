@@ -21,4 +21,4 @@ Moshe'z Rants
     fictional-politics
     lindsey-elliot
     ip-law
-    governance
+    mastodon-governance

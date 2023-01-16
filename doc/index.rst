@@ -22,3 +22,4 @@ Moshe'z Rants
     lindsey-elliot
     ip-law
     mastodon-governance
+    rebooting-eureka

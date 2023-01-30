@@ -23,3 +23,4 @@ Moshe'z Rants
     ip-law
     mastodon-governance
     rebooting-eureka
+    disney-plus-patch

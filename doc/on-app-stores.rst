@@ -367,6 +367,98 @@ contracts,
 while making sure the general stores
 compete on other features.
 
+This regulation can be considered a success if there are
+a few reasonably popular app stores.
+For example,
+since Google already has the popular Play Store
+on Android,
+this regulation would let them leverage that to also
+have the same available for the iPhone ecosystem.
+
+Usually companies will not be
+"app store first",
+instead adding an app store to their offerings
+when they become big enough to diversify.
+For example,
+in the current economic climate,
+the following companies 
+*already*
+have some sort of app store.
+They could build on the existing
+relationships with
+end consumers
+and
+ISVs
+to popularize their offerings:
+
+* Apple
+* Google
+* Amazon
+* Steam
+* Samsung
+* Microsoft
+
+There are also big companies that could realistically
+add an app store
+since they have many of the necessary moving parts:
+
+* Disney (existing digital presence, existing IP to leverage, consumer brand awareness)
+* Netflix (already has app store integration to allow installing games from a Netflix account)
+* Payment companies (Stripe, PayPal, Square) already have payment integrations and ISV relationsips
+  (for example, for SaaS-based ISVs).
+* Meta (popular single-sign on, popular integration API for ISVs)
+
+The goal is not to have thousands of app stores.
+The goal is to prevent a company,
+or a tiny number of companies,
+to control the market.
+The best case would be to have a few
+"general"
+app stores,
+as well as some
+"specialty"
+stores.
+
+Everything app
+--------------
+
+As an aside,
+the term
+"everything app"
+is misleading.
+An everything app is the combination of
+an:
+
+* App store
+* A launcher
+
+In a world where app stores are regulated,
+it would be easier to launch a new
+"everything app".
+Easier does not mean easy:
+app stores are complicated beasts.
+
+An app store market with an easier entry
+means an app store market with more competitors.
+Netflix,
+for example,
+has already all but launched its app store.
+Samsung has an app store.
+Amazon has an app store.
+
+Even the most
+newcomer-friendly regulation
+will have the barrier for a
+*successful*
+competitor
+to be fairly high.
+It requires being end-consumer-friendly,
+ISV-friendly,
+*and*
+reliable payments integration.
+
+
+
 Summary
 -------
 

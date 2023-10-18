@@ -24,3 +24,4 @@ Moshe'z Rants
     mastodon-governance
     rebooting-eureka
     disney-plus-patch
+    on-app-stores

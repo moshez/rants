@@ -25,3 +25,4 @@ Moshe'z Rants
     rebooting-eureka
     disney-plus-patch
     on-app-stores
+    summer-glau-hacker-news

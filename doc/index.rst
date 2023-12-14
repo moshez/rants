@@ -27,3 +27,4 @@ Moshe'z Rants
     on-app-stores
     summer-glau-hacker-news
     on-notes
+    interest-discount

@@ -13,7 +13,7 @@ replying to a
 in the style of
 `Summer Glau`_.
 
-.. _HN comment: https://news.ycombinator.com/item?id=37602342)
+.. _HN comment: https://news.ycombinator.com/item?id=37602342
 .. _Summer Glau: https://xkcd.com/406/
 
 
@@ -470,7 +470,7 @@ and laptops improvements are even less noticable,
 many people keep hardware around for longer.
 
 This trend is even stronger in
-`LMIC`_s
+`LMICs`_
 (low/middle income countries).
 With the market saturated in the
 "high income"
@@ -482,7 +482,7 @@ or have access to local expertise for replacing
 batteries and screens
 to keep older phones working longer.
 
-.. _LMIC: https://www.oecd.org/dac/transition-finance-toolkit/LIC-to-LMIC.pdf
+.. _LMICs: https://www.oecd.org/dac/transition-finance-toolkit/LIC-to-LMIC.pdf
 
 There is plenty of business opportunity into optimizing your
 React Native

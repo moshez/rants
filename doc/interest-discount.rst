@@ -1,6 +1,9 @@
 Interest rates, discount rates, and trade-offs
 ==============================================
 
+Business growth
+---------------
+
 Consider a hypothetical business which is somewhat profitable.
 Say it makes
 `$1M`
@@ -53,6 +56,9 @@ business's state of knowledge is,
 there are some investment opportunities that would only be taken
 if the interest rate is in a specific range.
 
+Marketing and brand image
+-------------------------
+
 One business
 "opportunity"
 that often comes up is marketing.
@@ -86,7 +92,10 @@ This is because the price signal from the economy is that
 the cost of money is high
 and they should not spend that money on their brand image.
 
-Businesses that do not respond to this signal
+Pricing signals and regulation
+------------------------------
+
+Businesses that do not respond to this pricing signal
 are similar to businesses that do not respond to any other
 pricing signal.
 A metal chair factory that ignores the price of iron
@@ -115,3 +124,21 @@ can no longer be trusted to do that.
 This was never supposed to be their jobs!
 Regularing the market for the benefit of society
 is the main job of the government.
+
+Conclusion
+----------
+
+Market regulation is always the job of the government
+regardless of the interest rates.
+Times of high interest rates lead to a false sense of security,
+where it seems like there is enough regulation.
+This bias should be understood and then dismissed.
+
+Regulations are easier to pass during a period of high interest rates,
+because businesses will not be incentivized to lobby against it.
+This is not the time for the government to rest on its laurels.
+It is the time for enshririning then-current business practices
+into laws and regulations
+that society can benefit from.
+
+

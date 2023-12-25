@@ -28,3 +28,4 @@ Moshe'z Rants
     summer-glau-hacker-news
     on-notes
     interest-discount
+    monorepos

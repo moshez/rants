@@ -30,3 +30,4 @@ Moshe'z Rants
     interest-discount
     monorepos
     three-revolutions
+    jewish-thanksgiving

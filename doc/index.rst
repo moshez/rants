@@ -32,3 +32,4 @@ Moshe'z Rants
     three-revolutions
     jewish-thanksgiving
     foundation_thesis
+    northwestern-semitic-paradox

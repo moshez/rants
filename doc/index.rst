@@ -33,3 +33,4 @@ Moshe'z Rants
     jewish-thanksgiving
     foundation_thesis
     northwestern-semitic-paradox
+    california-partition

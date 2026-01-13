@@ -34,3 +34,4 @@ Moshe'z Rants
     foundation_thesis
     northwestern-semitic-paradox
     california-partition
+    lba-collapse
